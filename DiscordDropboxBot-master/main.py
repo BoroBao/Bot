@@ -14,7 +14,7 @@ from google.oauth2.service_account import Credentials
 from refresh_token import get_dropbox_access_token
 
 # Input all discord API requirements below
-TOKEN = "MTM1MzcwNjIxMDE1MDMyMjMyNw.GkvyWb.K9mg0bMygjkq4MXKuPrC28h4T9jAEoF6NcmZT4"
+TOKEN = "MTM1MzcwNjIxMDE1MDMyMjMyNw.GLiE_e.ygicdcmVjEUVKW0Y22s4ej5CSMqQzWWEbdbAzo"
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
